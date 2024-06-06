@@ -13,7 +13,6 @@ e que forneça também, de forma rápida e prática, consultas com médicos espe
 
 * Henrique Braga do Pinho Rabelo
 * Phillipe Raul Batista Cobra
-* Marco Túlio
 
 ## Orientador
 
