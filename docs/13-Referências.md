@@ -8,3 +8,5 @@ Institute for Health Metrics and Evaluation. (2021). Disponível em: Mental heal
 
 Kessler et al., World Mental Health Survey Initiative. 2007. Disponível em: The World Mental Health Survey Initiative (harvard.edu). Acesso em: 15 mar. 2024. 
 
+CLEMENTE, Matheus. Psicologia das cores: o que é e como usar no marketing. Rock Content, 22 jul. 2020. Disponível em: https://rockcontent.com/br/blog/psicologia-das-cores/. Acesso em: 9 jun. 2024.
+
