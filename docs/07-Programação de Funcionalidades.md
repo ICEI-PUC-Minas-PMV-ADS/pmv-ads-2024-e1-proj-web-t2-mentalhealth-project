@@ -5,7 +5,7 @@
 
 Responsável: Henrique
 
-O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, JS e CSS.
 
 Exemplo da tela de cadastro: 
 
@@ -29,7 +29,7 @@ Pasta - cadastre-se
 
 Responsável: Henrique
 
-O acesso a tela de cadastro poderá ser feito através da opção de menu “Entrar”. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Entrar”. As estruturas de dados foram baseadas em HTML, JS e CSS.
 
 Exemplo da tela de login: 
 
