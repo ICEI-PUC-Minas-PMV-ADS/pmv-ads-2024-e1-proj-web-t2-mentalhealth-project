@@ -2,7 +2,7 @@
 
 ## Perfis de Usuários
 
-|Perfil 01| Trabalhador                 |
+|Perfil 01| Paciente                 |
 |--------------------|----------------------------------------------------------------------------|
 |Descrição:  | Trabalhador que não tem tempo para se locomover a um consultório devido a seu trabalho               |
 |Necessidades:       | 1. Acesso fácil e rápido a profissionais da área de bem-estar da saúde mental; 2. Realizar consultas on-line com profissional selecionado anteriormente; 3. Ter acesso ao histórico de consultas; 4. Formas facilitadas de pagamento.
@@ -19,13 +19,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Médico  | ajudar pessoas com problemas relacionados a saúde mental           | poderem ter uma vida mais saudável               |
-|Paciente       | acessar informações sobre saúde mental de uma forma mais simples e direta                 | entender melhor e aplicar as dicas no dia a dia                |
-|Estudante  | ter consultas com médicos de forma rápida e prática           | ter suporte médico e para conseguir lidar com a pressão acadêmica                |
-|Atleta       | acompanhamento personalizado de saúde mental                 | melhorar meu desempenho esportivo e lidar com a pressão competitiva                |
-|Pais de crianças com transtornos mentais       | acesso a informações e apoio específico para lidar com os desafios da saúde mental infantil                 | melhorar o bem-estar e a qualidade de vida de meu filho             |
-|Pessoa com Mobilidade Reduzida  | acesso a consultas médicas online para evitar as dificuldades de deslocamento físico           | receber cuidados médicos sem barreiras físicas e manter minha saúde mental em equilíbrio                |
-|Psiquiatra        | fornecer consultas online para atender às necessidades de pacientes com mobilidade reduzida                 | promover a inclusão e a equidade na saúde mental, atendendo a pacientes com diversas capacidades e circunstâncias                |
+|Paciente       | preciso realizar meu cadastro no site Saúde Mental                  | para realizar agendamentos e consultas on-line                |
+|Paciente       | preciso fazer login em minha conta cadastrada no site Saúde Mental                | para ter acesso a consultas e informações relacionadas a minha conta               |
+|Paciente       | quero ter acesso as informações fornecidas no cadastro                 | para verificar se os dados estão corretos                |
+|Paciente       | preciso ter acesso a agenda de consultas                 | para me informar sobre os horários disponíveis para marcar uma consulta                |
+|Médico  | preciso realizar meu cadastro no site Saúde Mental           | para realizar consultas on-line                |
+|Médico  | quero ter acesso a uma agenda contendo dados sobre consultas          | para que possa saber e me organizar a respeito de datas e horários               |
+|Médico  | preciso ter acesso ao histórico de atendimentos           | para poder acessar novamente a consulta               |
+|Médico  | quero ter acesso as informações fornecidas no cadastro            | para verificar se os dados estão corretos               |
+|Paciente       | preciso de uma lembrete via SMS ou Email                 | para me lembrar da consulta agendada                |
+|Paciente  | preciso ter acesso ao histórico de consultas           | para poder acessar novamente as informações passadas em consultas anteriores               |
+|Paciente       | quero filtrar as minhas buscas                | para poder ter uma pesquisa mais específica                |
 
 ## Requisitos
 
@@ -52,10 +56,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O site deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge | ALTA | 
-|RNF-002| A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada |  ALTA | 
-|RNF-002| A aplicação deve ser publicada em um ambiente acessível público na Internet |  ALTA | 
-|RNF-002| Segurança dos dados do usuário, incluindo criptografia de informações sensíveis e conformidade com regulamentações de privacidade LGPD |  ALTA | 
-|RNF-002| Requisições para o backend não devem superar os 5 segundos |  ALTA | 
-|RNF-002| Interface intuitiva e fácil de usar para todos os perfis de usuários |  MÉDIA | 
+|RNF-002| A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos como Computador, smartphones e tablets, de forma adequada |  ALTA | 
+|RNF-003| A aplicação deve ser hospedada na internet para que todos os pacientes e médicos possam ter acesso |  ALTA | 
+|RNF-004| Requisições para o backend não devem superar 5 segundos |  MÉDIA | 
+|RNF-005| Interface intuitiva e fácil de usar para todos os perfis de usuários como jovens, adultos e idosos |  MÉDIA | 
 
 **Prioridade: Alta / Média / Baixa.
