@@ -41,13 +41,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-002| A aplicação deve permitir ao paciente fazer login em sua conta  | ALTA |
 |RF-003| A aplicação deve permitir ao paciente verificar as informações registradas no cadastro na página de perfil | MÉDIA | 
 |RF-004| A aplicação deve permitir que o paciente acesse uma agenda com horários disponível para atendimento   | ALTA |
-|RF-006| A aplicação deve permitir ao profissional cadastre informações sobre seu currículo acadêmico   | ALTA |
-|RF-007| A aplicação deve permitir que o profissional acesse uma área para gestão da agenda e atendimentos | ALTA | 
-|RF-008| A aplicação deve permitir o profissional gerenciar histórico de atendimentos dos pacientes    | ALTA |
-|RF-009| A aplicação deve permitir ao profissional verificar as informações registradas no cadastro na página perfil | MÉDIA |
-|RF-010| Sistema de notificações por e-mail ou SMS para lembretes de consultas e atualizações importantes  | BAIXA |
-|RF-011| A aplicação deve permitir ao paciente que acesse as anotações de consultas passadas  | MÉDIA |
-|RF-012| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os profissionais cadastrados no sistema e de temas específicos | MÉDIA |
+|RF-005| A aplicação deve permitir ao profissional cadastre informações sobre seu currículo acadêmico   | ALTA |
+|RF-006| A aplicação deve permitir que o profissional acesse uma área para gestão da agenda e atendimentos | ALTA | 
+|RF-007| A aplicação deve permitir o profissional gerenciar histórico de atendimentos dos pacientes    | ALTA |
+|RF-008| A aplicação deve permitir ao profissional verificar as informações registradas no cadastro na página perfil | MÉDIA |
+|RF-009| Sistema de notificações por e-mail ou SMS para lembretes de consultas e atualizações importantes  | BAIXA |
+|RF-010| A aplicação deve permitir ao paciente que acesse as anotações de consultas passadas  | MÉDIA |
+|RF-011| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar os profissionais cadastrados no sistema e de temas específicos | MÉDIA |
 
 **Prioridade: Alta / Média / Baixa.
 
