@@ -10,9 +10,9 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 Desta forma, a equipe está organizada da seguinte maneira:
 
 - Scrum Master: Henrique Braga;
-- Product Owner: Phillipe Raul;
-- Equipe de Desenvolvimento: Henrique Braga, Phillipe Raul, Marco Túlio;
-- Equipe de Design: Marco Túlio.
+- Product Owner: Henrique Braga;
+- Equipe de Desenvolvimento: Henrique Braga;
+- Equipe de Design: Henrique Braga;
 
 ### Processo
 
