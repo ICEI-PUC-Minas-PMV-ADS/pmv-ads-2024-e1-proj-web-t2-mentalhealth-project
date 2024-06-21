@@ -4,7 +4,7 @@
 
 |Perfil 01| Paciente                 |
 |--------------------|----------------------------------------------------------------------------|
-|Descrição:  | Trabalhador que não tem tempo para se locomover a um consultório devido a seu trabalho               |
+|Descrição:  | Paciente que não tem tempo para se locomover a um consultório devido a seu trabalho               |
 |Necessidades:       | 1. Acesso fácil e rápido a profissionais da área de bem-estar da saúde mental; 2. Realizar consultas on-line com profissional selecionado anteriormente; 3. Ter acesso ao histórico de consultas; 4. Formas facilitadas de pagamento.
 
 |Perfil 02| Profissional da Saúde                 |
