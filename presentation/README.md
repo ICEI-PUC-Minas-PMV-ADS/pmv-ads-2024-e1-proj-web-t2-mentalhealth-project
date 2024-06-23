@@ -6,8 +6,5 @@
 
 2. Vídeo de apresentação do projeto
 
-3. [Apresentacao.-.Vida.de.estudante (2).pdf](https://github.com/user-attachments/files/15945255/Apresentacao.-.Vida.de.estudante.2.pdf)
 
-4. 3. Vídeo de apresentação das funcionalidades
-  
-   4. 
+3. Vídeo de apresentação das funcionalidades
