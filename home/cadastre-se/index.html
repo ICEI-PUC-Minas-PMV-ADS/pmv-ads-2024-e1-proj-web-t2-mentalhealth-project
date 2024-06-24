@@ -22,11 +22,11 @@
         <div class="navbar">
             <nav>
                 <a class="home-icon" title="Home Page">
-                    <img src='/assets/home_FILL0_wght400_GRAD0_opsz24.svg' alt="">
+                    <img src='/home/assets/home_FILL0_wght400_GRAD0_opsz24.svg' alt="">
                 </a>
                 <a href="/home/index.html">Home</a>
                 <a href="">Cadastre-se</a>
-                <a href="/home/login/login.html">Entrar</a>
+                <a href="login.html">Entrar</a>
                 <div class="search-icon-position">
                     <img class="search-icon" src="/assets/search_FILL0_wght400_GRAD0_opsz24.svg" alt="">
                 </div>
@@ -36,14 +36,14 @@
     <div class="login-container">
         <div class="login">
             <h1 class="tittle-div">Cadastre-se</h1>
-            <input type="text" placeholder="Nome completo">
-            <input type="text" placeholder="Email">
-            <input type="text" placeholder="Telefone">
-            <input type="text" placeholder="Senha">
-            <input type="text" placeholder="Confirme sua senha">
-            <button title="cadastrar" type="submit" onclick="">Cadastre-se</button>
+            <input id="nome" type="text" placeholder="Nome">
+            <input id="senha" type="password" placeholder="Senha">
+            <input id="email" type="email" placeholder="Email">
+            <button title="cadastrar" type="submit" onclick="cadastrar()">Cadastre-se</button>
         </div>
     </div>
+
+    <script src="cadastroscript.js"></script>
 </body>
 
 </html>
